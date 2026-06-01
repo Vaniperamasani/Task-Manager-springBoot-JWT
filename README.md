@@ -112,7 +112,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/taskdb
 
 spring.datasource.username=root
 
-spring.datasource.password=your_password
+spring.datasource.password=vani
 
 ## Learning Outcomes
 
